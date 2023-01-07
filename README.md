@@ -1,15 +1,16 @@
 # food_app for classification of 101 food categories
 
-<img src = food_classification_test.png, width = 500 >
+<img src = https://github.com/gourav300/food_app/blob/main/food_classification_test.png width = 500 >
+
+***Link*** - <https://gourav300-food-app-food-app-dj1qnv.streamlit.app/>
 
 **Upload food image and this app will classify the uploaded image from one of the mentioned categories.**
-**This app uses a CNN model to classify the food images. Pre trained efficient net model is used for transfer learning.**
+
+**Here transfer learning is used on pre trained efficient net CNN model to classify the food images.**
 
 
 
-dataset used - <https://www.tensorflow.org/datasets/catalog/food101>
-
-link - <https://gourav300-food-app-food-app-dj1qnv.streamlit.app/>
+Dataset used - <https://www.tensorflow.org/datasets/catalog/food101>
 
 Following are the food categories that this model is able to classify
 ```
