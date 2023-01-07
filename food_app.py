@@ -65,7 +65,7 @@ if uploaded_file is not None:
     pred_prob = model.predict(tf.expand_dims(img, axis=0)) # model accepts tensors of shape [None, 224, 224, 3]
     pred_class = class_names[pred_prob.argmax()] # find the predicted class
 
-    st.write(f"Predicted food: {pred_class}, with Probability: {pred_prob.max():.2f}")
+    st.write(f"## Predicted food: {pred_class}, with Probability: {pred_prob.max():.2f}")
     # print(
     # f"Vehicle Detail : {data}"
     # )
