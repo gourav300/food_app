@@ -46,7 +46,7 @@ class_names = ['apple_pie', 'baby_back_ribs', 'baklava', 'beef_carpaccio', 'beef
 model = tf.keras.models.load_model("101_food_class_100_percent_saved_big_model")
 
 st.write("""
-         # Food classification
+         # Food classification App
          """
          )
 ### load file
