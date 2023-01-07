@@ -2,7 +2,7 @@
 
 <img src = https://github.com/gourav300/food_app/blob/main/food_classification_test_img.png width = 500 >
 
-***Link*** - <https://gourav300-food-app-food-app-dj1qnv.streamlit.app/>
+***Link*** - <https://huggingface.co/spaces/Gourav300/Food-Classification-App>
 
 **Upload food image and this app will classify the uploaded image from one of the mentioned categories.**
 
