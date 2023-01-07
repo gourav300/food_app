@@ -1,7 +1,11 @@
 # food_app for classification of 101 food categories
 
+<img src = food_classification_test.png, width = 500 >
+
 **Upload food image and this app will classify the uploaded image from one of the mentioned categories.**
 **This app uses a CNN model to classify the food images. Pre trained efficient net model is used for transfer learning.**
+
+
 
 dataset used - <https://www.tensorflow.org/datasets/catalog/food101>
 
