@@ -1,6 +1,6 @@
 # food_app for classification of 101 food categories
 
-<img src = https://github.com/gourav300/food_app/blob/main/food_classification_test.png width = 500 >
+<img src = https://github.com/gourav300/food_app/blob/main/food_classification_test_img.png width = 500 >
 
 ***Link*** - <https://gourav300-food-app-food-app-dj1qnv.streamlit.app/>
 
